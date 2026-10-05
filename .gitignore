@@ -1,0 +1,26 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Testing & environments
+.pytest_cache/
+.coverage
+htmlcov/
+.venv/
+venv/
+env/
+ENV/
+
+# IDE / Editor folders
+.vscode/
+.idea/
+
+# Application logs & reports
+*.log
+reports/*.json
+reports/*.csv
+
+# Temporary files
+*.tmp
+*.temp

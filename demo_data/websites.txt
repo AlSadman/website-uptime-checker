@@ -1,0 +1,8 @@
+# Demo URLs for Website Uptime Checker
+# Lines starting with '#' are ignored comments
+# Blank lines are also ignored
+
+https://example.com
+https://httpbin.org/status/200
+https://httpbin.org/status/404
+https://nonexistent-domain-for-testing-12345.org
